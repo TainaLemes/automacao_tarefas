@@ -19,7 +19,9 @@ while True :
         div = n1 / n2
         print('A divisão desses números é:',div)
 
-    resp = (input('Você deseja continuar (sim ou não)'))
+    else :
+        print('Operador desconhecido!')
 
+    resp = (input('Você deseja continuar (sim ou não)'))
     if resp == "não":
         break
