@@ -1,3 +1,4 @@
+#
 import pyautogui
 
 pyautogui.moveTo(479, 438, duration=0.5)

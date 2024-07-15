@@ -1,3 +1,4 @@
+#
 import pyautogui
 
 pyautogui.click(680,320, duration=0.5)
